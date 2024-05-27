@@ -32,4 +32,18 @@ Here are a few things I've picked up along my learning journey.
   <br/>
 </a>
 
+## 🖁 Connect with me
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <div>
+    <a href="09amish@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/amish-neema-64a133228/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=red alt=linkedin style="margin-bottom: 10px;" />
+    </a>
+  </div>
+</div>
+
 
