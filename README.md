@@ -26,11 +26,11 @@ Here are a few things I've picked up along my learning journey.
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/09amish"><img alt="Amish's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=09amish&show_icons=true&count_private=true&theme=dark" height="192px" width="49.5%"/></a>
+<p align="center"> 
+    <!--<a href="https://github.com/09amish"><img alt="Amish's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=09amish&show_icons=true&count_private=true&theme=dark" height="192px" width="49.5%"/></a>-->
     <a href="https://github.com/09amish"><img alt="Amish's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=09amish&langs_count=8&layout=compact&theme=dark" height="192px" width="49.5%"/></a>
   <br/>
-</a>
+</p>
 
 ## 🖁 Connect with me
 
