@@ -12,5 +12,24 @@ Here are a few things I've picked up along my learning journey.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)  ![](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 
-![Amish's GitHub stats](https://github-readme-stats.vercel.app/api?username=amish&hide=contribs,prs)
+## 📊 My Stats
+
+<p align="center">
+  <a href="https://github.com/09amish">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=09amish&theme=dark" alt="Amish's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/09amish">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=09amish&theme=dark" alt="Amish's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/09amish"><img alt="Amish's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=09amish&show_icons=true&count_private=true&theme=dark" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/09amish"><img alt="Amish's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=09amish&langs_count=8&layout=compact&theme=dark" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
 
