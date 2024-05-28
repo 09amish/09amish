@@ -37,7 +37,7 @@ Here are a few things I've picked up along my learning journey.
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
   <div>
-    <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvmZlNLVllvNmbVdqlFtwcQFBCXFCHRSHfrskfkNCMJQZwNzrGMZGXrGrsvqLLhssSbCpL" target="_blank">
+    <a href="mailto:09amish@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/amish-neema-64a133228/" target="_blank">
